@@ -1,0 +1,29 @@
+{
+  "publication_of_record": "https://doi.org/10.5281/zenodo.23401563",
+  "zenodo_record": "https://zenodo.org/records/23401563",
+  "zenodo_record_revision": 3,
+  "publication_date": "2026-10-15",
+  "source_pdf": {
+    "file": "when-reasoning-leaves-the-transcript.pdf",
+    "bytes": 199322,
+    "sha256": "8dc68083df17ae51a7b6b8a2ab877bc7fd0814416bf33b5f15eb8142a9353fc8",
+    "pages": 12
+  },
+  "canonical_text_sha256": "0b87b3c9e70b986062d6e1280b6df2c924a541499ded69db7b1214a4617d3463",
+  "canonical_markdown_sha256": "3fbf19d1fc7037bed32ba15019b49ce2d697b121c8e0bc06f6d561522bbfee54",
+  "generation_date": "2026-10-15",
+  "transformation": "The machine-readable source that produced the verified published PDF is frozen in source/paper.json. All ordered paragraphs, title emphasis, citations, disclosure, references and URL targets are conserved. Repository framing, scholarly metadata and bibliography normalization are separate. The PDF is mirrored byte-for-byte.",
+  "manual_canonical_text_corrections": [],
+  "validation_status": "Validation is reproducible through the packaged complete-text, metadata, bibliography, immutable-PDF and mutation checks. Exact release results are preserved in the canonical working records.",
+  "tools": {
+    "PDF inspection": "pypdf 6.10.0",
+    "HTML inspection": "Beautiful Soup 4.15.0",
+    "Markdown parsing": "markdown-it-py 4.0.0",
+    "bibliography interoperability": "BibTeX 0.99e (TeX Live 2026) and Citation.js 0.9.0"
+  },
+  "source_reference_slots": 15,
+  "normalized_works": 15,
+  "figures": 0,
+  "tables": 0,
+  "retrieval_history": "Authority retrieval history is preserved in private working records. Public field provenance identifies responsible publication registries; no reader access dates are added."
+}

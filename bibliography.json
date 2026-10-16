@@ -1,0 +1,1534 @@
+{
+  "paper_doi": "10.5281/zenodo.23401563",
+  "reference_slots": [
+    {
+      "id": "ref-001",
+      "number": 1,
+      "classification": "single-work",
+      "raw_reference": "[1] Zou, J., Qi, Y., Chen, S., Bianchi, F., Zhu, S., Lu, P., He, J., and Zou, J. (2026). Hybrid Reasoning Agents. arXiv preprint. https://doi.org/10.48550/arXiv.2610.18861",
+      "raw_reference_sha256": "b9f440efa074c9d566be0174d662b58876d3c533484de4ca28c3f70d9ece0bf5",
+      "published_urls": [
+        "https://doi.org/10.48550/arXiv.2610.18861"
+      ]
+    },
+    {
+      "id": "ref-002",
+      "number": 2,
+      "classification": "single-work",
+      "raw_reference": "[2] Pierce, B. (2026). The Dynamic Control Plane. Zenodo. https://doi.org/10.5281/zenodo.22836572",
+      "raw_reference_sha256": "2c6767deff6f5494a0ed3ee1c39ffe71df1cce00cffc2e2aec14b2b6a53522f3",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22836572"
+      ]
+    },
+    {
+      "id": "ref-003",
+      "number": 3,
+      "classification": "single-work",
+      "raw_reference": "[3] Pierce, B. (2026). The Capability Mobilization Gap. Zenodo. https://doi.org/10.5281/zenodo.22836831",
+      "raw_reference_sha256": "2de9c393d66a4bfd2b7b09f1b74ae0a24c13c5a5dce1e976a74af69dddf2b043",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22836831"
+      ]
+    },
+    {
+      "id": "ref-004",
+      "number": 4,
+      "classification": "single-work",
+      "raw_reference": "[4] Pierce, B. (2026). Reversible Control Placement: Moving AI Control Inward Without Losing Authority. Zenodo. https://doi.org/10.5281/zenodo.22834319",
+      "raw_reference_sha256": "10f09523502206c09352cbe5e0b897cb41a28258e343b3fa29d207077589ba92",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22834319"
+      ]
+    },
+    {
+      "id": "ref-005",
+      "number": 5,
+      "classification": "single-work",
+      "raw_reference": "[5] Pierce, B. (2026). What Language Should an Agent Act In? Zenodo. https://doi.org/10.5281/zenodo.22837693",
+      "raw_reference_sha256": "e6b7cb65d4b191b2d89722e90f50ca8fb26a99184ade565a0c6b87543e12d686",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22837693"
+      ]
+    },
+    {
+      "id": "ref-006",
+      "number": 6,
+      "classification": "single-work",
+      "raw_reference": "[6] Pierce, B. (2026). Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows. Zenodo. https://doi.org/10.5281/zenodo.22890942",
+      "raw_reference_sha256": "b31d00bd77d32ab08d022d05eef4c89eaec3d4402262482a6409401634e7f121",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22890942"
+      ]
+    },
+    {
+      "id": "ref-007",
+      "number": 7,
+      "classification": "single-work",
+      "raw_reference": "[7] Pierce, B. (2026). Agents Act. Systems Remember. Rules Authorize. People Govern. Zenodo. https://doi.org/10.5281/zenodo.22842198",
+      "raw_reference_sha256": "e59409406a4eb4a6b22044294c9e76a2eb4121621ec1e31d33b6bbc30c421fca",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22842198"
+      ]
+    },
+    {
+      "id": "ref-008",
+      "number": 8,
+      "classification": "single-work",
+      "raw_reference": "[8] Pierce, B. (2026). Staying Capable in a World That Pushes Back. Zenodo. https://doi.org/10.5281/zenodo.23292386",
+      "raw_reference_sha256": "8372a460091ddc0060b2db9cc71804b180c017c367c71cdd6baa6e0474705536",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.23292386"
+      ]
+    },
+    {
+      "id": "ref-009",
+      "number": 9,
+      "classification": "single-work",
+      "raw_reference": "[9] Pierce, B. (2026). From Replayed Context to Persistent Time. Zenodo. https://doi.org/10.5281/zenodo.22836977",
+      "raw_reference_sha256": "9c9492a6dbe08b6c77f0bb926ccc68562ad8e9a6a6d2e70b7db0fadf97b549c0",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22836977"
+      ]
+    },
+    {
+      "id": "ref-010",
+      "number": 10,
+      "classification": "single-work",
+      "raw_reference": "[10] Pierce, B. (2026). The Clocks Are a Society: Memory Is Duty. Zenodo. https://doi.org/10.5281/zenodo.22837769",
+      "raw_reference_sha256": "40af06d692fdbef70aae5f2b0ff32de9ee33bd9603b5ebc8aa7624abda06feb9",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22837769"
+      ]
+    },
+    {
+      "id": "ref-011",
+      "number": 11,
+      "classification": "single-work",
+      "raw_reference": "[11] Pierce, B. (2026). Intelligence by Appointment. Zenodo. https://doi.org/10.5281/zenodo.22882247",
+      "raw_reference_sha256": "9299d8d19d83805aa8f72854a2a6a4b2dc0716e753bd0b81b10da765fefa273a",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22882247"
+      ]
+    },
+    {
+      "id": "ref-012",
+      "number": 12,
+      "classification": "single-work",
+      "raw_reference": "[12] Pierce, B. (2026). When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design. Zenodo. https://doi.org/10.5281/zenodo.23256253",
+      "raw_reference_sha256": "c5ce1a003532eda9159813c4ae8bc6909dd8e6041965b96f52355be14b926766",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.23256253"
+      ]
+    },
+    {
+      "id": "ref-013",
+      "number": 13,
+      "classification": "single-work",
+      "raw_reference": "[13] Pierce, B. (2026). Logic Optimization Is Becoming a Learning System. Zenodo. https://doi.org/10.5281/zenodo.22837235",
+      "raw_reference_sha256": "6daae5438079fb6db01a72c64a820c2f1bc5d4bc04db901eff7840a91acce160",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22837235"
+      ]
+    },
+    {
+      "id": "ref-014",
+      "number": 14,
+      "classification": "single-work",
+      "raw_reference": "[14] Pierce, B. (2026). The Third Clock: Engineering the Learning System Between Prototypes and Silicon. Zenodo. https://doi.org/10.5281/zenodo.22837121",
+      "raw_reference_sha256": "ebee638eaadcc8408fd865b05bcee72ceffa7e7934a4c1eaed34350bb644fb10",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.22837121"
+      ]
+    },
+    {
+      "id": "ref-015",
+      "number": 15,
+      "classification": "single-work",
+      "raw_reference": "[15] Pierce, B. (2026). External Analysis of Protected Data: Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface. Zenodo. https://doi.org/10.5281/zenodo.23377117",
+      "raw_reference_sha256": "7616f9fb92912e51f85ffe1dd9a65e4aeac0abd4095fe6dc890a6a95d7de8c36",
+      "published_urls": [
+        "https://doi.org/10.5281/zenodo.23377117"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "id": "f165_ref_001",
+      "citekey": "f165_ref_001",
+      "type": "manuscript",
+      "title": "Hybrid Reasoning Agents",
+      "source_primary_title": "Hybrid Reasoning Agents",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Zou",
+          "given": "Jiaru"
+        },
+        {
+          "family": "Qi",
+          "given": "Yunzhe"
+        },
+        {
+          "family": "Chen",
+          "given": "Sirui"
+        },
+        {
+          "family": "Bianchi",
+          "given": "Federico"
+        },
+        {
+          "family": "Zhu",
+          "given": "Shang"
+        },
+        {
+          "family": "Lu",
+          "given": "Pan"
+        },
+        {
+          "family": "He",
+          "given": "Jingrui"
+        },
+        {
+          "family": "Zou",
+          "given": "James"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          10
+        ]
+      },
+      "date_role": "Available",
+      "source_dates": [
+        {
+          "date": "2026-10-13T17:59:31Z",
+          "dateType": "Submitted",
+          "dateInformation": "v1"
+        },
+        {
+          "date": "2026-10-14T04:15:12Z",
+          "dateType": "Updated",
+          "dateInformation": "v1"
+        },
+        {
+          "date": "2026-10",
+          "dateType": "Available",
+          "dateInformation": "v1"
+        }
+      ],
+      "publisher": "arXiv",
+      "institution": null,
+      "doi": "10.48550/arXiv.2610.18861",
+      "url": "https://doi.org/10.48550/arXiv.2610.18861",
+      "arxiv": "2610.18861",
+      "note": "arXiv preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-001"
+      ],
+      "published_context": "[1] Zou, J., Qi, Y., Chen, S., Bianchi, F., Zhu, S., Lu, P., He, J., and Zou, J. (2026). Hybrid Reasoning Agents. arXiv preprint. https://doi.org/10.48550/arXiv.2610.18861",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.48550/arXiv.2610.18861",
+          "record_sha256": "61e98b0751d0fc45c85522bc139a36894a19e6211227f4122950805d353a2229",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.48550/arXiv.2610.18861",
+          "record_sha256": "61e98b0751d0fc45c85522bc139a36894a19e6211227f4122950805d353a2229",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.48550/arXiv.2610.18861",
+          "record_sha256": "61e98b0751d0fc45c85522bc139a36894a19e6211227f4122950805d353a2229",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.48550/arXiv.2610.18861",
+          "record_sha256": "61e98b0751d0fc45c85522bc139a36894a19e6211227f4122950805d353a2229",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.48550/arXiv.2610.18861",
+          "record_sha256": "61e98b0751d0fc45c85522bc139a36894a19e6211227f4122950805d353a2229",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.48550/arXiv.2610.18861",
+          "record_sha256": "61e98b0751d0fc45c85522bc139a36894a19e6211227f4122950805d353a2229",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.48550/arXiv.2610.18861",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_002",
+      "citekey": "f165_ref_002",
+      "type": "manuscript",
+      "title": "The Dynamic Control Plane",
+      "source_primary_title": "The Dynamic Control Plane",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          9
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-09",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22836572",
+      "url": "https://doi.org/10.5281/zenodo.22836572",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-002"
+      ],
+      "published_context": "[2] Pierce, B. (2026). The Dynamic Control Plane. Zenodo. https://doi.org/10.5281/zenodo.22836572",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836572",
+          "record_sha256": "19560a4a899e7ac7a0bdf58599365afcca34ac1a746a1dedb5cb0c46612865bf",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836572",
+          "record_sha256": "19560a4a899e7ac7a0bdf58599365afcca34ac1a746a1dedb5cb0c46612865bf",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836572",
+          "record_sha256": "19560a4a899e7ac7a0bdf58599365afcca34ac1a746a1dedb5cb0c46612865bf",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836572",
+          "record_sha256": "19560a4a899e7ac7a0bdf58599365afcca34ac1a746a1dedb5cb0c46612865bf",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836572",
+          "record_sha256": "19560a4a899e7ac7a0bdf58599365afcca34ac1a746a1dedb5cb0c46612865bf",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836572",
+          "record_sha256": "19560a4a899e7ac7a0bdf58599365afcca34ac1a746a1dedb5cb0c46612865bf",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22836572",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_003",
+      "citekey": "f165_ref_003",
+      "type": "manuscript",
+      "title": "The Capability Mobilization Gap",
+      "source_primary_title": "The Capability Mobilization Gap",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          9
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-09",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22836831",
+      "url": "https://doi.org/10.5281/zenodo.22836831",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-003"
+      ],
+      "published_context": "[3] Pierce, B. (2026). The Capability Mobilization Gap. Zenodo. https://doi.org/10.5281/zenodo.22836831",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836831",
+          "record_sha256": "4df922d56202e21925f6175694aa11a6040805df773b5e31ede32ac213aab79d",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836831",
+          "record_sha256": "4df922d56202e21925f6175694aa11a6040805df773b5e31ede32ac213aab79d",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836831",
+          "record_sha256": "4df922d56202e21925f6175694aa11a6040805df773b5e31ede32ac213aab79d",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836831",
+          "record_sha256": "4df922d56202e21925f6175694aa11a6040805df773b5e31ede32ac213aab79d",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836831",
+          "record_sha256": "4df922d56202e21925f6175694aa11a6040805df773b5e31ede32ac213aab79d",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836831",
+          "record_sha256": "4df922d56202e21925f6175694aa11a6040805df773b5e31ede32ac213aab79d",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22836831",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_004",
+      "citekey": "f165_ref_004",
+      "type": "manuscript",
+      "title": "Reversible Control Placement: Moving AI Control Inward Without Losing Authority",
+      "source_primary_title": "Reversible Control Placement: Moving AI Control Inward Without Losing Authority",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          17
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-17",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22834319",
+      "url": "https://doi.org/10.5281/zenodo.22834319",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-004"
+      ],
+      "published_context": "[4] Pierce, B. (2026). Reversible Control Placement: Moving AI Control Inward Without Losing Authority. Zenodo. https://doi.org/10.5281/zenodo.22834319",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22834319",
+          "record_sha256": "93446c94a33da923d307a6899907166f9aeba812a0e53f64231dc08eddb59b7f",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22834319",
+          "record_sha256": "93446c94a33da923d307a6899907166f9aeba812a0e53f64231dc08eddb59b7f",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22834319",
+          "record_sha256": "93446c94a33da923d307a6899907166f9aeba812a0e53f64231dc08eddb59b7f",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22834319",
+          "record_sha256": "93446c94a33da923d307a6899907166f9aeba812a0e53f64231dc08eddb59b7f",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22834319",
+          "record_sha256": "93446c94a33da923d307a6899907166f9aeba812a0e53f64231dc08eddb59b7f",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22834319",
+          "record_sha256": "93446c94a33da923d307a6899907166f9aeba812a0e53f64231dc08eddb59b7f",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22834319",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_005",
+      "citekey": "f165_ref_005",
+      "type": "manuscript",
+      "title": "What Language Should an Agent Act In?",
+      "source_primary_title": "What Language Should an Agent Act In?",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          14
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-14",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22837693",
+      "url": "https://doi.org/10.5281/zenodo.22837693",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-005"
+      ],
+      "published_context": "[5] Pierce, B. (2026). What Language Should an Agent Act In? Zenodo. https://doi.org/10.5281/zenodo.22837693",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837693",
+          "record_sha256": "addabc870ac91e555e2deb710ed5791a429e34a6f34122c86c36cb9d85707a5e",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837693",
+          "record_sha256": "addabc870ac91e555e2deb710ed5791a429e34a6f34122c86c36cb9d85707a5e",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837693",
+          "record_sha256": "addabc870ac91e555e2deb710ed5791a429e34a6f34122c86c36cb9d85707a5e",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837693",
+          "record_sha256": "addabc870ac91e555e2deb710ed5791a429e34a6f34122c86c36cb9d85707a5e",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837693",
+          "record_sha256": "addabc870ac91e555e2deb710ed5791a429e34a6f34122c86c36cb9d85707a5e",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837693",
+          "record_sha256": "addabc870ac91e555e2deb710ed5791a429e34a6f34122c86c36cb9d85707a5e",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22837693",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_006",
+      "citekey": "f165_ref_006",
+      "type": "article",
+      "title": "Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows",
+      "source_primary_title": "Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          22
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-22",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22890942",
+      "url": "https://doi.org/10.5281/zenodo.22890942",
+      "arxiv": null,
+      "note": "Technical note",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-006"
+      ],
+      "published_context": "[6] Pierce, B. (2026). Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows. Zenodo. https://doi.org/10.5281/zenodo.22890942",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22890942",
+          "record_sha256": "8258b8a9a4933feb9fd18e2fd1e779dfada37d541b17b84eeb1a16c83cb8613f",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22890942",
+          "record_sha256": "8258b8a9a4933feb9fd18e2fd1e779dfada37d541b17b84eeb1a16c83cb8613f",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22890942",
+          "record_sha256": "8258b8a9a4933feb9fd18e2fd1e779dfada37d541b17b84eeb1a16c83cb8613f",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22890942",
+          "record_sha256": "8258b8a9a4933feb9fd18e2fd1e779dfada37d541b17b84eeb1a16c83cb8613f",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22890942",
+          "record_sha256": "8258b8a9a4933feb9fd18e2fd1e779dfada37d541b17b84eeb1a16c83cb8613f",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22890942",
+          "record_sha256": "8258b8a9a4933feb9fd18e2fd1e779dfada37d541b17b84eeb1a16c83cb8613f",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22890942",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_007",
+      "citekey": "f165_ref_007",
+      "type": "manuscript",
+      "title": "Agents Act. Systems Remember. Rules Authorize. People Govern.",
+      "source_primary_title": "Agents Act. Systems Remember. Rules Authorize. People Govern.",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          19
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-19",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22842198",
+      "url": "https://doi.org/10.5281/zenodo.22842198",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-007"
+      ],
+      "published_context": "[7] Pierce, B. (2026). Agents Act. Systems Remember. Rules Authorize. People Govern. Zenodo. https://doi.org/10.5281/zenodo.22842198",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22842198",
+          "record_sha256": "1c6bbc19ce054b4d90112f04335ab2653c691048f045ff63664a4647e4e7b9f3",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22842198",
+          "record_sha256": "1c6bbc19ce054b4d90112f04335ab2653c691048f045ff63664a4647e4e7b9f3",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22842198",
+          "record_sha256": "1c6bbc19ce054b4d90112f04335ab2653c691048f045ff63664a4647e4e7b9f3",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22842198",
+          "record_sha256": "1c6bbc19ce054b4d90112f04335ab2653c691048f045ff63664a4647e4e7b9f3",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22842198",
+          "record_sha256": "1c6bbc19ce054b4d90112f04335ab2653c691048f045ff63664a4647e4e7b9f3",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22842198",
+          "record_sha256": "1c6bbc19ce054b4d90112f04335ab2653c691048f045ff63664a4647e4e7b9f3",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22842198",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_008",
+      "citekey": "f165_ref_008",
+      "type": "manuscript",
+      "title": "Staying Capable in a World That Pushes Back: How the actions of consequential agents change the conditions for their future competence",
+      "source_primary_title": "Staying Capable in a World That Pushes Back",
+      "subtitle": "How the actions of consequential agents change the conditions for their future competence",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          10,
+          11
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-10-11",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.23292386",
+      "url": "https://doi.org/10.5281/zenodo.23292386",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-008"
+      ],
+      "published_context": "[8] Pierce, B. (2026). Staying Capable in a World That Pushes Back. Zenodo. https://doi.org/10.5281/zenodo.23292386",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23292386",
+          "record_sha256": "30e849f9c32b41f49296cd9d2271ed79a9f36f0c8d32e8fe8862406985bbd751",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23292386",
+          "record_sha256": "30e849f9c32b41f49296cd9d2271ed79a9f36f0c8d32e8fe8862406985bbd751",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23292386",
+          "record_sha256": "30e849f9c32b41f49296cd9d2271ed79a9f36f0c8d32e8fe8862406985bbd751",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23292386",
+          "record_sha256": "30e849f9c32b41f49296cd9d2271ed79a9f36f0c8d32e8fe8862406985bbd751",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23292386",
+          "record_sha256": "30e849f9c32b41f49296cd9d2271ed79a9f36f0c8d32e8fe8862406985bbd751",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23292386",
+          "record_sha256": "30e849f9c32b41f49296cd9d2271ed79a9f36f0c8d32e8fe8862406985bbd751",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.23292386",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_009",
+      "citekey": "f165_ref_009",
+      "type": "manuscript",
+      "title": "From Replayed Context to Persistent Time",
+      "source_primary_title": "From Replayed Context to Persistent Time",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          9
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-09",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22836977",
+      "url": "https://doi.org/10.5281/zenodo.22836977",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-009"
+      ],
+      "published_context": "[9] Pierce, B. (2026). From Replayed Context to Persistent Time. Zenodo. https://doi.org/10.5281/zenodo.22836977",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836977",
+          "record_sha256": "c3dc576ab173ec8f600f01fbac4fb0871e522b9ac4c4cd36e5e8e9208a6b93c6",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836977",
+          "record_sha256": "c3dc576ab173ec8f600f01fbac4fb0871e522b9ac4c4cd36e5e8e9208a6b93c6",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836977",
+          "record_sha256": "c3dc576ab173ec8f600f01fbac4fb0871e522b9ac4c4cd36e5e8e9208a6b93c6",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836977",
+          "record_sha256": "c3dc576ab173ec8f600f01fbac4fb0871e522b9ac4c4cd36e5e8e9208a6b93c6",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836977",
+          "record_sha256": "c3dc576ab173ec8f600f01fbac4fb0871e522b9ac4c4cd36e5e8e9208a6b93c6",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22836977",
+          "record_sha256": "c3dc576ab173ec8f600f01fbac4fb0871e522b9ac4c4cd36e5e8e9208a6b93c6",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22836977",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_010",
+      "citekey": "f165_ref_010",
+      "type": "manuscript",
+      "title": "The Clocks Are a Society: Memory Is Duty",
+      "source_primary_title": "The Clocks Are a Society: Memory Is Duty",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          15
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-15",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22837769",
+      "url": "https://doi.org/10.5281/zenodo.22837769",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-010"
+      ],
+      "published_context": "[10] Pierce, B. (2026). The Clocks Are a Society: Memory Is Duty. Zenodo. https://doi.org/10.5281/zenodo.22837769",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837769",
+          "record_sha256": "1c94e8c54c59ab042631b65abbb075a2eefb6d2beda0b11eb6850da69a3b749f",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837769",
+          "record_sha256": "1c94e8c54c59ab042631b65abbb075a2eefb6d2beda0b11eb6850da69a3b749f",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837769",
+          "record_sha256": "1c94e8c54c59ab042631b65abbb075a2eefb6d2beda0b11eb6850da69a3b749f",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837769",
+          "record_sha256": "1c94e8c54c59ab042631b65abbb075a2eefb6d2beda0b11eb6850da69a3b749f",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837769",
+          "record_sha256": "1c94e8c54c59ab042631b65abbb075a2eefb6d2beda0b11eb6850da69a3b749f",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837769",
+          "record_sha256": "1c94e8c54c59ab042631b65abbb075a2eefb6d2beda0b11eb6850da69a3b749f",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22837769",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_011",
+      "citekey": "f165_ref_011",
+      "type": "manuscript",
+      "title": "Intelligence by Appointment",
+      "source_primary_title": "Intelligence by Appointment",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          21
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-21",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22882247",
+      "url": "https://doi.org/10.5281/zenodo.22882247",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-011"
+      ],
+      "published_context": "[11] Pierce, B. (2026). Intelligence by Appointment. Zenodo. https://doi.org/10.5281/zenodo.22882247",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22882247",
+          "record_sha256": "400b191bf3916e4995a8d256858f98aa39a0fbcec60b41a0f26920a38801482d",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22882247",
+          "record_sha256": "400b191bf3916e4995a8d256858f98aa39a0fbcec60b41a0f26920a38801482d",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22882247",
+          "record_sha256": "400b191bf3916e4995a8d256858f98aa39a0fbcec60b41a0f26920a38801482d",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22882247",
+          "record_sha256": "400b191bf3916e4995a8d256858f98aa39a0fbcec60b41a0f26920a38801482d",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22882247",
+          "record_sha256": "400b191bf3916e4995a8d256858f98aa39a0fbcec60b41a0f26920a38801482d",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22882247",
+          "record_sha256": "400b191bf3916e4995a8d256858f98aa39a0fbcec60b41a0f26920a38801482d",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22882247",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_012",
+      "citekey": "f165_ref_012",
+      "type": "report",
+      "title": "When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design",
+      "source_primary_title": "When Design Exploration Gets Cheap",
+      "subtitle": "Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          10,
+          9
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-10-09",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.23256253",
+      "url": "https://doi.org/10.5281/zenodo.23256253",
+      "arxiv": null,
+      "note": "Report",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-012"
+      ],
+      "published_context": "[12] Pierce, B. (2026). When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design. Zenodo. https://doi.org/10.5281/zenodo.23256253",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23256253",
+          "record_sha256": "fd324bbf6d9784ba78e04265b7c8b5ebda7156271c48c1f13ae2e4f7c8ecb74e",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23256253",
+          "record_sha256": "fd324bbf6d9784ba78e04265b7c8b5ebda7156271c48c1f13ae2e4f7c8ecb74e",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23256253",
+          "record_sha256": "fd324bbf6d9784ba78e04265b7c8b5ebda7156271c48c1f13ae2e4f7c8ecb74e",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23256253",
+          "record_sha256": "fd324bbf6d9784ba78e04265b7c8b5ebda7156271c48c1f13ae2e4f7c8ecb74e",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23256253",
+          "record_sha256": "fd324bbf6d9784ba78e04265b7c8b5ebda7156271c48c1f13ae2e4f7c8ecb74e",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23256253",
+          "record_sha256": "fd324bbf6d9784ba78e04265b7c8b5ebda7156271c48c1f13ae2e4f7c8ecb74e",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.23256253",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_013",
+      "citekey": "f165_ref_013",
+      "type": "manuscript",
+      "title": "Logic Optimization Is Becoming a Learning System",
+      "source_primary_title": "Logic Optimization Is Becoming a Learning System",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          11
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-11",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22837235",
+      "url": "https://doi.org/10.5281/zenodo.22837235",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-013"
+      ],
+      "published_context": "[13] Pierce, B. (2026). Logic Optimization Is Becoming a Learning System. Zenodo. https://doi.org/10.5281/zenodo.22837235",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837235",
+          "record_sha256": "616dd50ab9d0b47816446b55f3f2a759a22fd3c395a2d039e1b028be023e4294",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837235",
+          "record_sha256": "616dd50ab9d0b47816446b55f3f2a759a22fd3c395a2d039e1b028be023e4294",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837235",
+          "record_sha256": "616dd50ab9d0b47816446b55f3f2a759a22fd3c395a2d039e1b028be023e4294",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837235",
+          "record_sha256": "616dd50ab9d0b47816446b55f3f2a759a22fd3c395a2d039e1b028be023e4294",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837235",
+          "record_sha256": "616dd50ab9d0b47816446b55f3f2a759a22fd3c395a2d039e1b028be023e4294",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837235",
+          "record_sha256": "616dd50ab9d0b47816446b55f3f2a759a22fd3c395a2d039e1b028be023e4294",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22837235",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_014",
+      "citekey": "f165_ref_014",
+      "type": "manuscript",
+      "title": "The Third Clock: Engineering the Learning System Between Prototypes and Silicon",
+      "source_primary_title": "The Third Clock: Engineering the Learning System Between Prototypes and Silicon",
+      "subtitle": null,
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          9,
+          10
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-09-10",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.22837121",
+      "url": "https://doi.org/10.5281/zenodo.22837121",
+      "arxiv": null,
+      "note": "Preprint",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-014"
+      ],
+      "published_context": "[14] Pierce, B. (2026). The Third Clock: Engineering the Learning System Between Prototypes and Silicon. Zenodo. https://doi.org/10.5281/zenodo.22837121",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837121",
+          "record_sha256": "d42ebdd6732bf529823bd2f49c0e01750df604289ec848929ab031d8f58fe90c",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837121",
+          "record_sha256": "d42ebdd6732bf529823bd2f49c0e01750df604289ec848929ab031d8f58fe90c",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837121",
+          "record_sha256": "d42ebdd6732bf529823bd2f49c0e01750df604289ec848929ab031d8f58fe90c",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837121",
+          "record_sha256": "d42ebdd6732bf529823bd2f49c0e01750df604289ec848929ab031d8f58fe90c",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837121",
+          "record_sha256": "d42ebdd6732bf529823bd2f49c0e01750df604289ec848929ab031d8f58fe90c",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.22837121",
+          "record_sha256": "d42ebdd6732bf529823bd2f49c0e01750df604289ec848929ab031d8f58fe90c",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.22837121",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    },
+    {
+      "id": "f165_ref_015",
+      "citekey": "f165_ref_015",
+      "type": "report",
+      "title": "External Analysis of Protected Data: Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface",
+      "source_primary_title": "External Analysis of Protected Data",
+      "subtitle": "Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface",
+      "title_translated": null,
+      "authors": [
+        {
+          "family": "Pierce",
+          "given": "Brad"
+        }
+      ],
+      "issued": {
+        "date_parts": [
+          2026,
+          10,
+          14
+        ]
+      },
+      "date_role": "Issued",
+      "source_dates": [
+        {
+          "date": "2026-10-14",
+          "dateType": "Issued"
+        }
+      ],
+      "publisher": "Zenodo",
+      "institution": null,
+      "doi": "10.5281/zenodo.23377117",
+      "url": "https://doi.org/10.5281/zenodo.23377117",
+      "arxiv": null,
+      "note": "Report",
+      "pages": null,
+      "container_title": null,
+      "accessed": null,
+      "language": "en",
+      "reference_slots": [
+        "ref-015"
+      ],
+      "published_context": "[15] Pierce, B. (2026). External Analysis of Protected Data: Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface. Zenodo. https://doi.org/10.5281/zenodo.23377117",
+      "alternate_urls": [],
+      "field_provenance": {
+        "title": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23377117",
+          "record_sha256": "1a62b31f0463abd1f857a961fe4016a1af2ef9e68d344cdbfa6fa23b4ea7a8e1",
+          "pointer": "/data/attributes/titles"
+        },
+        "authors": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23377117",
+          "record_sha256": "1a62b31f0463abd1f857a961fe4016a1af2ef9e68d344cdbfa6fa23b4ea7a8e1",
+          "pointer": "/data/attributes/creators"
+        },
+        "issued": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23377117",
+          "record_sha256": "1a62b31f0463abd1f857a961fe4016a1af2ef9e68d344cdbfa6fa23b4ea7a8e1",
+          "pointer": "/data/attributes/dates"
+        },
+        "doi": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23377117",
+          "record_sha256": "1a62b31f0463abd1f857a961fe4016a1af2ef9e68d344cdbfa6fa23b4ea7a8e1",
+          "pointer": "/data/attributes/doi"
+        },
+        "publisher": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23377117",
+          "record_sha256": "1a62b31f0463abd1f857a961fe4016a1af2ef9e68d344cdbfa6fa23b4ea7a8e1",
+          "pointer": "/data/attributes/publisher"
+        },
+        "type": {
+          "url": "https://api.datacite.org/dois/10.5281/zenodo.23377117",
+          "record_sha256": "1a62b31f0463abd1f857a961fe4016a1af2ef9e68d344cdbfa6fa23b4ea7a8e1",
+          "pointer": "/data/attributes/types"
+        },
+        "url": {
+          "url": "https://doi.org/10.5281/zenodo.23377117",
+          "basis": "Exact published reference URL; resolver independently verified during publication verification."
+        }
+      }
+    }
+  ],
+  "reference_work_links": [
+    {
+      "reference_slot_id": "ref-001",
+      "work_id": "f165_ref_001",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-002",
+      "work_id": "f165_ref_002",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-003",
+      "work_id": "f165_ref_003",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-004",
+      "work_id": "f165_ref_004",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-005",
+      "work_id": "f165_ref_005",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-006",
+      "work_id": "f165_ref_006",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-007",
+      "work_id": "f165_ref_007",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-008",
+      "work_id": "f165_ref_008",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-009",
+      "work_id": "f165_ref_009",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-010",
+      "work_id": "f165_ref_010",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-011",
+      "work_id": "f165_ref_011",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-012",
+      "work_id": "f165_ref_012",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-013",
+      "work_id": "f165_ref_013",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-014",
+      "work_id": "f165_ref_014",
+      "role": "primary"
+    },
+    {
+      "reference_slot_id": "ref-015",
+      "work_id": "f165_ref_015",
+      "role": "primary"
+    }
+  ],
+  "normalization_policy": "Exact published numbered references are preserved separately; normalized primary-registry metadata is frozen for offline deterministic export. No reader access dates. No inferred journal, report institution or date precision.",
+  "adjudications": [
+    {
+      "slot": 1,
+      "reason": "Full author given names come from the responsible DOI registry. Available date has month precision (2026-10); Submitted/Updated timestamps remain separate and are not promoted to publication dates."
+    },
+    {
+      "slot": 8,
+      "reason": "Normalized reusable title includes the separately registered subtitle. Exact published reference wording remains unchanged."
+    },
+    {
+      "slot": 12,
+      "reason": "Normalized reusable title includes the separately registered subtitle. Exact published reference wording remains unchanged."
+    },
+    {
+      "slot": 15,
+      "reason": "Normalized reusable title includes the separately registered subtitle. Exact published reference wording remains unchanged."
+    }
+  ],
+  "exceptions": [
+    {
+      "slot": 12,
+      "kind": "no-institution",
+      "reason": "Zenodo is the verified repository publisher, not an inferred report-producing institution. Classic BibTeX uses conservative misc type."
+    },
+    {
+      "slot": 15,
+      "kind": "no-institution",
+      "reason": "Zenodo is the verified repository publisher, not an inferred report-producing institution. Classic BibTeX uses conservative misc type."
+    }
+  ],
+  "pilot": {
+    "slots": [
+      1,
+      6,
+      8,
+      12
+    ],
+    "classes": [
+      "arXiv preprint",
+      "technical note",
+      "Zenodo preprint with subtitle",
+      "report with subtitle"
+    ],
+    "missing_source_classes": "Journal/conference/book/multilingual/composite/software slots are absent from this paper; no synthetic works added."
+  },
+  "completeness": {
+    "slots": 15,
+    "works": 15,
+    "links": 15,
+    "composite_slots": 0,
+    "reused_works": 0,
+    "authors": 15,
+    "dates": 15,
+    "full_day_dates": 14,
+    "month_precision_dates": 1,
+    "DOIs": 15,
+    "URLs": 15,
+    "publishers": 15,
+    "unknown_report_institutions": 2,
+    "undated": 0
+  }
+}

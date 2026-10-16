@@ -1,0 +1,404 @@
+[
+  {
+    "id": "f165_ref_001",
+    "type": "manuscript",
+    "title": "Hybrid Reasoning Agents",
+    "publisher": "arXiv",
+    "language": "en",
+    "DOI": "10.48550/arXiv.2610.18861",
+    "URL": "https://doi.org/10.48550/arXiv.2610.18861",
+    "author": [
+      {
+        "family": "Zou",
+        "given": "Jiaru"
+      },
+      {
+        "family": "Qi",
+        "given": "Yunzhe"
+      },
+      {
+        "family": "Chen",
+        "given": "Sirui"
+      },
+      {
+        "family": "Bianchi",
+        "given": "Federico"
+      },
+      {
+        "family": "Zhu",
+        "given": "Shang"
+      },
+      {
+        "family": "Lu",
+        "given": "Pan"
+      },
+      {
+        "family": "He",
+        "given": "Jingrui"
+      },
+      {
+        "family": "Zou",
+        "given": "James"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10
+        ]
+      ]
+    },
+    "note": "arXiv preprint Published reference slots: ref-001. Published context: [1] Zou, J., Qi, Y., Chen, S., Bianchi, F., Zhu, S., Lu, P., He, J., and Zou, J. (2026). Hybrid Reasoning Agents. arXiv preprint. https://doi.org/10.48550/arXiv.2610.18861"
+  },
+  {
+    "id": "f165_ref_002",
+    "type": "manuscript",
+    "title": "The Dynamic Control Plane",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22836572",
+    "URL": "https://doi.org/10.5281/zenodo.22836572",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-002. Published context: [2] Pierce, B. (2026). The Dynamic Control Plane. Zenodo. https://doi.org/10.5281/zenodo.22836572"
+  },
+  {
+    "id": "f165_ref_003",
+    "type": "manuscript",
+    "title": "The Capability Mobilization Gap",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22836831",
+    "URL": "https://doi.org/10.5281/zenodo.22836831",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-003. Published context: [3] Pierce, B. (2026). The Capability Mobilization Gap. Zenodo. https://doi.org/10.5281/zenodo.22836831"
+  },
+  {
+    "id": "f165_ref_004",
+    "type": "manuscript",
+    "title": "Reversible Control Placement: Moving AI Control Inward Without Losing Authority",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22834319",
+    "URL": "https://doi.org/10.5281/zenodo.22834319",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          17
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-004. Published context: [4] Pierce, B. (2026). Reversible Control Placement: Moving AI Control Inward Without Losing Authority. Zenodo. https://doi.org/10.5281/zenodo.22834319"
+  },
+  {
+    "id": "f165_ref_005",
+    "type": "manuscript",
+    "title": "What Language Should an Agent Act In?",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22837693",
+    "URL": "https://doi.org/10.5281/zenodo.22837693",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          14
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-005. Published context: [5] Pierce, B. (2026). What Language Should an Agent Act In? Zenodo. https://doi.org/10.5281/zenodo.22837693"
+  },
+  {
+    "id": "f165_ref_006",
+    "type": "article",
+    "title": "Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22890942",
+    "URL": "https://doi.org/10.5281/zenodo.22890942",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ]
+    },
+    "note": "Technical note Published reference slots: ref-006. Published context: [6] Pierce, B. (2026). Controlling Consequential Transitions: An Execution Contract and Architecture-Review Method for Agent Workflows. Zenodo. https://doi.org/10.5281/zenodo.22890942"
+  },
+  {
+    "id": "f165_ref_007",
+    "type": "manuscript",
+    "title": "Agents Act. Systems Remember. Rules Authorize. People Govern.",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22842198",
+    "URL": "https://doi.org/10.5281/zenodo.22842198",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-007. Published context: [7] Pierce, B. (2026). Agents Act. Systems Remember. Rules Authorize. People Govern. Zenodo. https://doi.org/10.5281/zenodo.22842198"
+  },
+  {
+    "id": "f165_ref_008",
+    "type": "manuscript",
+    "title": "Staying Capable in a World That Pushes Back: How the actions of consequential agents change the conditions for their future competence",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.23292386",
+    "URL": "https://doi.org/10.5281/zenodo.23292386",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-008. Published context: [8] Pierce, B. (2026). Staying Capable in a World That Pushes Back. Zenodo. https://doi.org/10.5281/zenodo.23292386"
+  },
+  {
+    "id": "f165_ref_009",
+    "type": "manuscript",
+    "title": "From Replayed Context to Persistent Time",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22836977",
+    "URL": "https://doi.org/10.5281/zenodo.22836977",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-009. Published context: [9] Pierce, B. (2026). From Replayed Context to Persistent Time. Zenodo. https://doi.org/10.5281/zenodo.22836977"
+  },
+  {
+    "id": "f165_ref_010",
+    "type": "manuscript",
+    "title": "The Clocks Are a Society: Memory Is Duty",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22837769",
+    "URL": "https://doi.org/10.5281/zenodo.22837769",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          15
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-010. Published context: [10] Pierce, B. (2026). The Clocks Are a Society: Memory Is Duty. Zenodo. https://doi.org/10.5281/zenodo.22837769"
+  },
+  {
+    "id": "f165_ref_011",
+    "type": "manuscript",
+    "title": "Intelligence by Appointment",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22882247",
+    "URL": "https://doi.org/10.5281/zenodo.22882247",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          21
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-011. Published context: [11] Pierce, B. (2026). Intelligence by Appointment. Zenodo. https://doi.org/10.5281/zenodo.22882247"
+  },
+  {
+    "id": "f165_ref_012",
+    "type": "report",
+    "title": "When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.23256253",
+    "URL": "https://doi.org/10.5281/zenodo.23256253",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "note": "Report Published reference slots: ref-012. Published context: [12] Pierce, B. (2026). When Design Exploration Gets Cheap: Upstream Search, Downstream Truth, and the Migration of Scarcity in Chip Design. Zenodo. https://doi.org/10.5281/zenodo.23256253"
+  },
+  {
+    "id": "f165_ref_013",
+    "type": "manuscript",
+    "title": "Logic Optimization Is Becoming a Learning System",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22837235",
+    "URL": "https://doi.org/10.5281/zenodo.22837235",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          11
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-013. Published context: [13] Pierce, B. (2026). Logic Optimization Is Becoming a Learning System. Zenodo. https://doi.org/10.5281/zenodo.22837235"
+  },
+  {
+    "id": "f165_ref_014",
+    "type": "manuscript",
+    "title": "The Third Clock: Engineering the Learning System Between Prototypes and Silicon",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.22837121",
+    "URL": "https://doi.org/10.5281/zenodo.22837121",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ]
+    },
+    "note": "Preprint Published reference slots: ref-014. Published context: [14] Pierce, B. (2026). The Third Clock: Engineering the Learning System Between Prototypes and Silicon. Zenodo. https://doi.org/10.5281/zenodo.22837121"
+  },
+  {
+    "id": "f165_ref_015",
+    "type": "report",
+    "title": "External Analysis of Protected Data: Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface",
+    "publisher": "Zenodo",
+    "language": "en",
+    "DOI": "10.5281/zenodo.23377117",
+    "URL": "https://doi.org/10.5281/zenodo.23377117",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "note": "Report Published reference slots: ref-015. Published context: [15] Pierce, B. (2026). External Analysis of Protected Data: Data Clean Rooms, Confidential Computing, Approved Queries, and the Emerging Agent Interface. Zenodo. https://doi.org/10.5281/zenodo.23377117"
+  }
+]
