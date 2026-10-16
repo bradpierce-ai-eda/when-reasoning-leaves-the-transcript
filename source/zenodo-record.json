@@ -1,0 +1,199 @@
+{
+  "id": "23401563",
+  "is_published": true,
+  "is_draft": false,
+  "metadata": {
+    "additional_descriptions": [
+      {
+        "description": "<p>This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.</p>",
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "type": {
+          "id": "methods",
+          "title": {
+            "de": "Methoden",
+            "en": "Methods"
+          }
+        }
+      }
+    ],
+    "additional_titles": [
+      {
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        },
+        "title": "A Research Program for Hybrid Computation, Semantic Boundaries, and Consequential Agency",
+        "type": {
+          "id": "subtitle",
+          "title": {
+            "de": "Untertitel",
+            "en": "Subtitle"
+          }
+        }
+      }
+    ],
+    "copyright": "© 2026 Brad Pierce",
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Pierce",
+          "given_name": "Brad",
+          "identifiers": [
+            {
+              "identifier": "0009-0009-7427-2969",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Pierce, Brad",
+          "type": "personal"
+        }
+      }
+    ],
+    "description": "<p>In <em>Hybrid Reasoning Agents</em>, Jiaru Zou, Yunzhe Qi, Sirui Chen, Federico Bianchi, Shang Zhu, Pan Lu, Jingrui He, and James Zou describe agents that combine text-based interaction with internal computation in continuous representations. This separation raises an engineering question: what must cross from private computation into the world for another participant to interpret a proposal, assess its evidence, determine its authority, and inherit its remaining obligations? This research-program essay develops a recipient- and task-relative account of boundary sufficiency. Its central test constructs source situations that yield the same outward record but legitimately require different decisions, and asks whether an interface preserves the relevant distinction, requests more information, or justifiably refuses the handoff. Five proposed investigations examine representation placement under whole-loop budgets, semantic sufficiency, continuity across model and authority changes, evaluator economics, and cross-agent or institutional interpretation. Earlier architectural and engineering work supplies specific distinctions and experimental starting points. The program separates internal efficiency from evidential warrant, permission, observed effect, and continuing responsibility; its proposed studies haven&rsquo;t been performed.</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2026-10-15",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "arXiv:2610.18861",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-preprint",
+          "title": {
+            "de": "Preprint",
+            "en": "Preprint"
+          }
+        },
+        "scheme": "arxiv"
+      }
+    ],
+    "resource_type": {
+      "id": "publication-preprint",
+      "title": {
+        "de": "Preprint",
+        "en": "Preprint"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "icon": "cc-by-nc-icon",
+        "id": "cc-by-nc-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution Non Commercial 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "id": "euroscivoc:297",
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/4c8f4b46-6f5c-41d9-9079-7de85c16431d",
+            "scheme": "url"
+          }
+        ],
+        "props": {
+          "parents": "euroscivoc:23,euroscivoc:47"
+        },
+        "scheme": "EuroSciVoc",
+        "subject": "Artificial intelligence"
+      },
+      {
+        "subject": "hybrid reasoning"
+      },
+      {
+        "subject": "latent reasoning"
+      },
+      {
+        "subject": "semantic interfaces"
+      },
+      {
+        "subject": "consequential AI agents"
+      },
+      {
+        "subject": "evidence and authorization"
+      },
+      {
+        "subject": "institutional memory"
+      },
+      {
+        "subject": "evaluator economics"
+      }
+    ],
+    "title": "When Reasoning Leaves the Transcript"
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.23401563",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:23401563",
+      "provider": "oai"
+    }
+  },
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  },
+  "files": {
+    "count": 1,
+    "enabled": true,
+    "entries": {
+      "when-reasoning-leaves-the-transcript.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:7e1777f04abf6c98db99d3c3c9eda269",
+        "ext": "pdf",
+        "id": "74a266f7-4ee3-4e06-af79-9c25c8fc2c62",
+        "key": "when-reasoning-leaves-the-transcript.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/23401563/files/when-reasoning-leaves-the-transcript.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:23401563:when-reasoning-leaves-the-transcript.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:23401563:when-reasoning-leaves-the-transcript.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:23401563/canvas/when-reasoning-leaves-the-transcript.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:23401563:when-reasoning-leaves-the-transcript.pdf/info.json",
+          "self": "https://zenodo.org/api/records/23401563/files/when-reasoning-leaves-the-transcript.pdf"
+        },
+        "metadata": {
+          "height": 792,
+          "width": 612
+        },
+        "mimetype": "application/pdf",
+        "size": 199322,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 199322
+  }
+}

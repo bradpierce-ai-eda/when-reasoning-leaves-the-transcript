@@ -1,0 +1,35 @@
+{
+  "doi": "10.5281/zenodo.23401563",
+  "zenodo_record": "https://zenodo.org/records/23401563",
+  "publication_date": "2026-10-15",
+  "pdf": {
+    "file": "when-reasoning-leaves-the-transcript.pdf",
+    "bytes": 199322,
+    "sha256": "8dc68083df17ae51a7b6b8a2ab877bc7fd0814416bf33b5f15eb8142a9353fc8",
+    "pages": 12
+  },
+  "canonical_text_sha256": "0b87b3c9e70b986062d6e1280b6df2c924a541499ded69db7b1214a4617d3463",
+  "canonical_markdown_sha256": "3fbf19d1fc7037bed32ba15019b49ce2d697b121c8e0bc06f6d561522bbfee54",
+  "front_html_sha256": "0e3d4ef0ae132b441744f438fba1877030b66018de36b00f7ddf1184e64121fb",
+  "body_html_sha256": "fa39d7f1f9f4ec5a839af17fdd644dd6636ebd99bb25ba2e25327d4503a83efc",
+  "bibliography_sha256": "f6417b5b4575c8019e0046fa160ed898f48e8672cec20a9deb8df603921287a9",
+  "paper_source_sha256": "529650925e2e6b681bb9670d4fabe153767b7c86fb05486035bf7474b57944ba",
+  "zenodo_source_sha256": "2031c00f1f7391185d7cd47e7450ee64ef0b91adf8e329c440e3d84c593e00ab",
+  "canonical_blocks": 98,
+  "numbered_references": 15,
+  "citation_groups": 22,
+  "internal_citation_links": 22,
+  "reference_url_occurrences": 15,
+  "figures": 0,
+  "tables": 0,
+  "keywords": [
+    "hybrid reasoning",
+    "latent reasoning",
+    "semantic interfaces",
+    "consequential AI agents",
+    "evidence and authorization",
+    "institutional memory",
+    "evaluator economics"
+  ],
+  "publication_pdf_identity": "Verified byte-identical to current Zenodo deposit and frozen R4 release."
+}
