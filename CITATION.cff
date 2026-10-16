@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: This repository is a machine-readable derivative; the DOI-linked Zenodo essay
+  is the publication of record.
+title: When Reasoning Leaves the Transcript
+authors:
+- &id001
+  family-names: Pierce
+  given-names: Brad
+  orcid: https://orcid.org/0009-0009-7427-2969
+doi: 10.5281/zenodo.23401563
+date-released: '2026-10-15'
+url: https://bradpierce.ai/when-reasoning-leaves-the-transcript/
+license: CC-BY-NC-4.0
+abstract: 'In Hybrid Reasoning Agents, Jiaru Zou, Yunzhe Qi, Sirui Chen, Federico
+  Bianchi, Shang Zhu, Pan Lu, Jingrui He, and James Zou describe agents that combine
+  text-based interaction with internal computation in continuous representations.
+  This separation raises an engineering question: what must cross from private computation
+  into the world for another participant to interpret a proposal, assess its evidence,
+  determine its authority, and inherit its remaining obligations? This research-program
+  essay develops a recipient- and task-relative account of boundary sufficiency. Its
+  central test constructs source situations that yield the same outward record but
+  legitimately require different decisions, and asks whether an interface preserves
+  the relevant distinction, requests more information, or justifiably refuses the
+  handoff. Five proposed investigations examine representation placement under whole-loop
+  budgets, semantic sufficiency, continuity across model and authority changes, evaluator
+  economics, and cross-agent or institutional interpretation. Earlier architectural
+  and engineering work supplies specific distinctions and experimental starting points.
+  The program separates internal efficiency from evidential warrant, permission, observed
+  effect, and continuing responsibility; its proposed studies haven’t been performed.'
+keywords:
+- hybrid reasoning
+- latent reasoning
+- semantic interfaces
+- consequential AI agents
+- evidence and authorization
+- institutional memory
+- evaluator economics
+preferred-citation:
+  type: generic
+  title: When Reasoning Leaves the Transcript
+  authors:
+  - *id001
+  year: 2026
+  month: 10
+  date-published: '2026-10-15'
+  doi: 10.5281/zenodo.23401563
+  url: https://doi.org/10.5281/zenodo.23401563
+  publisher:
+    name: Zenodo
+  notes: Preprint
+  keywords:
+  - hybrid reasoning
+  - latent reasoning
+  - semantic interfaces
+  - consequential AI agents
+  - evidence and authorization
+  - institutional memory
+  - evaluator economics
